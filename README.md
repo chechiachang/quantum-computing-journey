@@ -1,1 +1,8 @@
-# quantum-computing-journey
+quantum-computing-journey
+===
+
+https://github.com/Qiskit/qiskit-tutorials/blob/master/INSTALL.md
+
+# Get-Started
+
+make install
