@@ -22,6 +22,9 @@ lint:
 pytest:
 	pipenv run env pytest tests/
 
+jupyter:
+	jupyter notebook
+
 .PHONY: clean
 
 clean:
