@@ -1,0 +1,6 @@
+[submodule "openqasm"]
+	path = openqasm
+	url = git@github.com:Qiskit/openqasm.git
+[submodule "qiskit-tutorials"]
+	path = qiskit-tutorials
+	url = git@github.com:Qiskit/qiskit-tutorials.git
